@@ -59,3 +59,4 @@ Durante a fase de reconhecimento *Black Box*, a seguinte topologia foi mapeada n
 
 
 O diagrama ilustra as redes **Virtual LAN 10.5.5.0/24**, **Virtual LAN 10.6.6.0/24**, a **DMZ 172.17.0.0/24** e o **Corporate Network 192.168.0.0/24**, mostrando a complexidade e a extensão do escopo avaliado.
+
